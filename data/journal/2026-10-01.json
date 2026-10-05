@@ -1,0 +1,469 @@
+{
+  "session_date": "2026-10-01",
+  "saved_at": "2026-10-04 14:04",
+  "horizon": 20,
+  "top_n": 5,
+  "weights": {
+    "momentum": 0.3,
+    "relative_strength": 0.25,
+    "trend": 0.2,
+    "volume": 0.15,
+    "risk": 0.1
+  },
+  "baseline_label": "باقي القائمة",
+  "basket_return_20d": -0.0488820754948881,
+  "top": [
+    {
+      "symbol": "GBCO",
+      "name": "جي بي أوتو",
+      "sector": "سيارات",
+      "score": 80.47,
+      "band": "عالية جداً",
+      "price": 31.0,
+      "extension_penalty": 0.0,
+      "dist_sma50": 0.02482726520771994,
+      "dist_sma200": 0.09103507943305922,
+      "factors": {
+        "momentum": 70.4,
+        "relative_strength": 96.66,
+        "trend": 100.0,
+        "volume": 75.54,
+        "risk": 38.58
+      }
+    },
+    {
+      "symbol": "ETEL",
+      "name": "المصرية للاتصالات",
+      "sector": "اتصالات",
+      "score": 61.92,
+      "band": "متوسطة",
+      "price": 138.7100067138672,
+      "extension_penalty": 22.511340302035336,
+      "dist_sma50": 0.16025607490645188,
+      "dist_sma200": 0.46515876422849467,
+      "factors": {
+        "momentum": 83.33,
+        "relative_strength": 97.06,
+        "trend": 100.0,
+        "volume": 64.68,
+        "risk": 54.67
+      }
+    },
+    {
+      "symbol": "FWRY",
+      "name": "فوري",
+      "sector": "تكنولوجيا مالية",
+      "score": 57.34,
+      "band": "متوسطة",
+      "price": 18.850000381469727,
+      "extension_penalty": 0.0,
+      "dist_sma50": -0.007246813808340247,
+      "dist_sma200": 0.01874272527423204,
+      "factors": {
+        "momentum": 50.58,
+        "relative_strength": 75.9,
+        "trend": 65.94,
+        "volume": 29.4,
+        "risk": 55.89
+      }
+    },
+    {
+      "symbol": "AMOC",
+      "name": "أموك",
+      "sector": "طاقة",
+      "score": 57.05,
+      "band": "متوسطة",
+      "price": 14.050000190734863,
+      "extension_penalty": 25.0,
+      "dist_sma50": 0.2067336749055133,
+      "dist_sma200": 0.628956289005407,
+      "factors": {
+        "momentum": 78.7,
+        "relative_strength": 100.0,
+        "trend": 100.0,
+        "volume": 57.47,
+        "risk": 48.18
+      }
+    },
+    {
+      "symbol": "CCAP",
+      "name": "القلعة",
+      "sector": "استثمار",
+      "score": 39.93,
+      "band": "ضعيفة",
+      "price": 6.880000114440918,
+      "extension_penalty": 23.14559369195188,
+      "dist_sma50": 0.15080959450019993,
+      "dist_sma200": 0.47403831168732635,
+      "factors": {
+        "momentum": 62.66,
+        "relative_strength": 64.43,
+        "trend": 100.0,
+        "volume": 25.14,
+        "risk": 44.0
+      }
+    }
+  ],
+  "ranked": [
+    {
+      "symbol": "GBCO",
+      "name": "جي بي أوتو",
+      "sector": "سيارات",
+      "score": 80.47,
+      "band": "عالية جداً",
+      "price": 31.0,
+      "extension_penalty": 0.0,
+      "dist_sma50": 0.02482726520771994,
+      "dist_sma200": 0.09103507943305922,
+      "factors": {
+        "momentum": 70.4,
+        "relative_strength": 96.66,
+        "trend": 100.0,
+        "volume": 75.54,
+        "risk": 38.58
+      }
+    },
+    {
+      "symbol": "ETEL",
+      "name": "المصرية للاتصالات",
+      "sector": "اتصالات",
+      "score": 61.92,
+      "band": "متوسطة",
+      "price": 138.7100067138672,
+      "extension_penalty": 22.511340302035336,
+      "dist_sma50": 0.16025607490645188,
+      "dist_sma200": 0.46515876422849467,
+      "factors": {
+        "momentum": 83.33,
+        "relative_strength": 97.06,
+        "trend": 100.0,
+        "volume": 64.68,
+        "risk": 54.67
+      }
+    },
+    {
+      "symbol": "FWRY",
+      "name": "فوري",
+      "sector": "تكنولوجيا مالية",
+      "score": 57.34,
+      "band": "متوسطة",
+      "price": 18.850000381469727,
+      "extension_penalty": 0.0,
+      "dist_sma50": -0.007246813808340247,
+      "dist_sma200": 0.01874272527423204,
+      "factors": {
+        "momentum": 50.58,
+        "relative_strength": 75.9,
+        "trend": 65.94,
+        "volume": 29.4,
+        "risk": 55.89
+      }
+    },
+    {
+      "symbol": "AMOC",
+      "name": "أموك",
+      "sector": "طاقة",
+      "score": 57.05,
+      "band": "متوسطة",
+      "price": 14.050000190734863,
+      "extension_penalty": 25.0,
+      "dist_sma50": 0.2067336749055133,
+      "dist_sma200": 0.628956289005407,
+      "factors": {
+        "momentum": 78.7,
+        "relative_strength": 100.0,
+        "trend": 100.0,
+        "volume": 57.47,
+        "risk": 48.18
+      }
+    },
+    {
+      "symbol": "CCAP",
+      "name": "القلعة",
+      "sector": "استثمار",
+      "score": 39.93,
+      "band": "ضعيفة",
+      "price": 6.880000114440918,
+      "extension_penalty": 23.14559369195188,
+      "dist_sma50": 0.15080959450019993,
+      "dist_sma200": 0.47403831168732635,
+      "factors": {
+        "momentum": 62.66,
+        "relative_strength": 64.43,
+        "trend": 100.0,
+        "volume": 25.14,
+        "risk": 44.0
+      }
+    },
+    {
+      "symbol": "ABUK",
+      "name": "أبو قير للأسمدة",
+      "sector": "أسمدة",
+      "score": 38.96,
+      "band": "ضعيفة",
+      "price": 87.0199966430664,
+      "extension_penalty": 1.474342400444998,
+      "dist_sma50": 0.058019614538251885,
+      "dist_sma200": 0.17064079360622997,
+      "factors": {
+        "momentum": 21.87,
+        "relative_strength": 30.66,
+        "trend": 100.0,
+        "volume": 10.42,
+        "risk": 46.48
+      }
+    },
+    {
+      "symbol": "SWDY",
+      "name": "السويدي إليكتريك",
+      "sector": "صناعة",
+      "score": 36.53,
+      "band": "ضعيفة",
+      "price": 120.0,
+      "extension_penalty": 12.77687757792005,
+      "dist_sma50": 0.023789459297366644,
+      "dist_sma200": 0.3288762860908807,
+      "factors": {
+        "momentum": 39.25,
+        "relative_strength": 58.38,
+        "trend": 100.0,
+        "volume": 0.0,
+        "risk": 29.34
+      }
+    },
+    {
+      "symbol": "COMI",
+      "name": "التجاري الدولي",
+      "sector": "بنوك",
+      "score": 35.81,
+      "band": "ضعيفة",
+      "price": 127.69000244140625,
+      "extension_penalty": 0.0,
+      "dist_sma50": -0.06665495951384626,
+      "dist_sma200": -0.0034874700115962165,
+      "factors": {
+        "momentum": 28.68,
+        "relative_strength": 41.34,
+        "trend": 50.0,
+        "volume": 0.0,
+        "risk": 68.68
+      }
+    },
+    {
+      "symbol": "CLHO",
+      "name": "كليوباترا",
+      "sector": "رعاية صحية",
+      "score": 35.58,
+      "band": "ضعيفة",
+      "price": 15.699999809265137,
+      "extension_penalty": 0.0,
+      "dist_sma50": -0.06997133661021848,
+      "dist_sma200": 0.07497063267774418,
+      "factors": {
+        "momentum": 31.84,
+        "relative_strength": 46.29,
+        "trend": 50.0,
+        "volume": 0.0,
+        "risk": 44.56
+      }
+    },
+    {
+      "symbol": "BTFH",
+      "name": "بلتون",
+      "sector": "خدمات مالية",
+      "score": 32.17,
+      "band": "ضعيفة",
+      "price": 2.8299999237060547,
+      "extension_penalty": 0.0,
+      "dist_sma50": -0.0563521446127182,
+      "dist_sma200": -0.07706358502064592,
+      "factors": {
+        "momentum": 37.73,
+        "relative_strength": 55.65,
+        "trend": 0.0,
+        "volume": 15.46,
+        "risk": 46.23
+      }
+    },
+    {
+      "symbol": "ISPH",
+      "name": "ابن سينا فارما",
+      "sector": "رعاية صحية",
+      "score": 32.12,
+      "band": "ضعيفة",
+      "price": 11.699999809265137,
+      "extension_penalty": 0.0,
+      "dist_sma50": -0.07811590547076552,
+      "dist_sma200": 0.006816633205573908,
+      "factors": {
+        "momentum": 28.1,
+        "relative_strength": 40.42,
+        "trend": 50.0,
+        "volume": 0.0,
+        "risk": 35.85
+      }
+    },
+    {
+      "symbol": "EGAL",
+      "name": "مصر للألومنيوم",
+      "sector": "معادن",
+      "score": 28.88,
+      "band": "ضعيفة",
+      "price": 342.0,
+      "extension_penalty": 0.7557976573530971,
+      "dist_sma50": 0.0010689818997635658,
+      "dist_sma200": 0.16058116720294335,
+      "factors": {
+        "momentum": 14.71,
+        "relative_strength": 19.26,
+        "trend": 76.34,
+        "volume": 2.39,
+        "risk": 47.79
+      }
+    },
+    {
+      "symbol": "HRHO",
+      "name": "إي إف جي القابضة",
+      "sector": "خدمات مالية",
+      "score": 28.56,
+      "band": "ضعيفة",
+      "price": 24.200000762939453,
+      "extension_penalty": 0.0,
+      "dist_sma50": -0.06580295501600941,
+      "dist_sma200": -0.08816201222776932,
+      "factors": {
+        "momentum": 33.86,
+        "relative_strength": 49.51,
+        "trend": 0.0,
+        "volume": 8.33,
+        "risk": 47.72
+      }
+    },
+    {
+      "symbol": "PHDC",
+      "name": "بالم هيلز",
+      "sector": "عقارات",
+      "score": 27.32,
+      "band": "ضعيفة",
+      "price": 13.279999732971191,
+      "extension_penalty": 0.0,
+      "dist_sma50": -0.08392314150991598,
+      "dist_sma200": 0.11193443507293188,
+      "factors": {
+        "momentum": 21.31,
+        "relative_strength": 29.69,
+        "trend": 50.0,
+        "volume": 0.0,
+        "risk": 35.08
+      }
+    },
+    {
+      "symbol": "TMGH",
+      "name": "طلعت مصطفى",
+      "sector": "عقارات",
+      "score": 21.07,
+      "band": "ضعيفة",
+      "price": 87.69999694824219,
+      "extension_penalty": 0.0,
+      "dist_sma50": -0.09067724750959616,
+      "dist_sma200": -0.025833690819235255,
+      "factors": {
+        "momentum": 9.88,
+        "relative_strength": 11.61,
+        "trend": 50.0,
+        "volume": 0.0,
+        "risk": 52.04
+      }
+    },
+    {
+      "symbol": "EMFD",
+      "name": "إعمار مصر",
+      "sector": "عقارات",
+      "score": 20.99,
+      "band": "ضعيفة",
+      "price": 12.800000190734863,
+      "extension_penalty": 2.2191334750350373,
+      "dist_sma50": 0.0023021751407874547,
+      "dist_sma200": 0.18106786865049052,
+      "factors": {
+        "momentum": 8.45,
+        "relative_strength": 9.81,
+        "trend": 77.88,
+        "volume": 0.0,
+        "risk": 26.51
+      }
+    },
+    {
+      "symbol": "ORHD",
+      "name": "أوراسكوم للتنمية",
+      "sector": "عقارات",
+      "score": 19.93,
+      "band": "ضعيفة",
+      "price": 38.900001525878906,
+      "extension_penalty": 2.6416787676386972,
+      "dist_sma50": -0.062180529037421106,
+      "dist_sma200": 0.18698350274694175,
+      "factors": {
+        "momentum": 12.88,
+        "relative_strength": 16.4,
+        "trend": 50.0,
+        "volume": 0.0,
+        "risk": 46.06
+      }
+    },
+    {
+      "symbol": "RMDA",
+      "name": "راميدا",
+      "sector": "رعاية صحية",
+      "score": 16.51,
+      "band": "ضعيفة",
+      "price": 5.449999809265137,
+      "extension_penalty": 0.5537298459389587,
+      "dist_sma50": -0.08917711102830228,
+      "dist_sma200": 0.15775221784314541,
+      "factors": {
+        "momentum": 7.79,
+        "relative_strength": 10.94,
+        "trend": 50.0,
+        "volume": 0.0,
+        "risk": 19.92
+      }
+    },
+    {
+      "symbol": "JUFO",
+      "name": "جهينة",
+      "sector": "أغذية",
+      "score": 15.81,
+      "band": "ضعيفة",
+      "price": 25.079999923706055,
+      "extension_penalty": 0.0,
+      "dist_sma50": -0.054576713367983976,
+      "dist_sma200": -0.08402835359848704,
+      "factors": {
+        "momentum": 17.93,
+        "relative_strength": 24.34,
+        "trend": 0.0,
+        "volume": 4.35,
+        "risk": 37.0
+      }
+    },
+    {
+      "symbol": "SKPC",
+      "name": "سيدي كرير للبتروكيماويات",
+      "sector": "بتروكيماويات",
+      "score": 11.69,
+      "band": "ضعيفة",
+      "price": 16.200000762939453,
+      "extension_penalty": 0.0,
+      "dist_sma50": -0.058511704908455586,
+      "dist_sma200": -0.04708961175011395,
+      "factors": {
+        "momentum": 1.92,
+        "relative_strength": 0.0,
+        "trend": 40.16,
+        "volume": 0.0,
+        "risk": 30.8
+      }
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+# UTF-8 for docs and Arabic source comments
+*.md text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.txt text eol=lf
+*.example text eol=lf
